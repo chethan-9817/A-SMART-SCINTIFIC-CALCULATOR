@@ -1,0 +1,6 @@
+{
+  "name": "OmniCalc AI",
+  "description": "Scientific Calculator with intelligent AI Agent solver, math step-by-step breakdown, and formula cheat sheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

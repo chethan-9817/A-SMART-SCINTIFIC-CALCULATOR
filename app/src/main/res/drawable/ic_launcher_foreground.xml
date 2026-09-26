@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Calculator Body (Centered within 66dp safe zone: X: 27 to 81, Y: 24 to 84) -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M32,24 L76,24 C80.4,24 84,27.6 84,32 L84,80 C84,84.4 80.4,88 76,88 L32,88 C27.6,88 24,84.4 24,80 L24,32 C24,27.6 27.6,24 32,24 Z" />
+    <!-- Display Screen -->
+    <path
+        android:fillColor="#090D16"
+        android:pathData="M29,29 L79,29 C80.6,29 82,30.4 82,32 L82,46 C82,47.6 80.6,49 79,49 L29,49 C27.4,49 26,47.6 26,46 L26,32 C26,30.4 27.4,29 29,29 Z" />
+    <!-- Display Math Glow Line / Numbers -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M66,35 L76,35 L76,37 L66,37 Z M56,41 L76,41 L76,43 L56,43 Z" />
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M30,35 L42,35 L42,37 L30,37 Z" />
+    <!-- Keypad Buttons Row 1 (f(x), π, √, ÷) -->
+    <path
+        android:fillColor="#334155"
+        android:pathData="M28,53 L38,53 C39,53 40,54 40,55 L40,60 C40,61 39,62 38,62 L28,62 C27,62 26,61 26,60 L26,55 C26,54 27,53 28,53 Z" />
+    <path
+        android:fillColor="#334155"
+        android:pathData="M42,53 L52,53 C53,53 54,54 54,55 L54,60 C54,61 53,62 52,62 L42,62 C41,62 40,61 40,60 L40,55 C40,54 41,53 42,53 Z" />
+    <path
+        android:fillColor="#334155"
+        android:pathData="M56,53 L66,53 C67,53 68,54 68,55 L68,60 C68,61 67,62 66,62 L56,62 C55,62 54,61 54,60 L54,55 C54,54 55,53 56,53 Z" />
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M70,53 L80,53 C81,53 82,54 82,55 L82,60 C82,61 81,62 80,62 L70,62 C69,62 68,61 68,60 L68,55 C68,54 69,53 70,53 Z" />
+    <!-- Keypad Buttons Row 2 (7, 8, 9, ×) -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M28,65 L38,65 C39,65 40,66 40,67 L40,72 C40,73 39,74 38,74 L28,74 C27,74 26,73 26,72 L26,67 C26,66 27,65 28,65 Z" />
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M42,65 L52,65 C53,65 54,66 54,67 L54,72 C54,73 53,74 52,74 L42,74 C41,74 40,73 40,72 L40,67 C40,66 41,65 42,65 Z" />
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M56,65 L66,65 C67,65 68,66 68,67 L68,72 C68,73 67,74 66,74 L56,74 C55,74 54,73 54,72 L54,67 C54,66 55,65 56,65 Z" />
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M70,65 L80,65 C81,65 82,66 82,67 L82,72 C82,73 81,74 80,74 L70,74 C69,74 68,73 68,72 L68,67 C68,66 69,65 70,65 Z" />
+    <!-- Keypad Buttons Row 3 (4, 5, 6, =) -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M28,77 L38,77 C39,77 40,78 40,79 L40,84 C40,85 39,86 38,86 L28,86 C27,86 26,85 26,84 L26,79 C26,78 27,77 28,77 Z" />
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M42,77 L52,77 C53,77 54,78 54,79 L54,84 C54,85 53,86 52,86 L42,86 C41,86 40,85 40,84 L40,79 C40,78 41,77 42,77 Z" />
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M56,77 L66,77 C67,77 68,78 68,79 L68,84 C68,85 67,86 66,86 L56,86 C55,86 54,85 54,84 L54,79 C54,78 55,77 56,77 Z" />
+    <path
+        android:fillColor="#06B6D4"
+        android:pathData="M70,77 L80,77 C81,77 82,78 82,79 L82,84 C82,85 81,86 80,86 L70,86 C69,86 68,85 68,84 L68,79 C68,78 69,77 70,77 Z" />
+    <!-- AI Spark / Intelligence Star on top right corner of display -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M78,21 L80,26 L85,28 L80,30 L78,35 L76,30 L71,28 L76,26 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M74,38 L75,41 L78,42 L75,43 L74,46 L73,43 L70,42 L73,41 Z" />
+</vector>
